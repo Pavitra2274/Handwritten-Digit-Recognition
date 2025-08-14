@@ -1,4 +1,3 @@
-<img width="237" height="1139" alt="cnn_architecture_diagram" src="https://github.com/user-attachments/assets/bb3fbbac-c86c-4090-b0fb-72abeb60fd2c" /># Handwritten-Digit-Recognition using CNN (MNIST Dataset)
 
 ## Overview
 
