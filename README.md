@@ -6,21 +6,20 @@ Developed a Convolutional Neural Network (CNN) model trained on the MNIST datase
 
 ## Dataset
 
-Name: MNIST Handwritten Digits
-Size: 70,000 grayscale images (60,000 training + 10,000 testing)
-Image Size: 28×28 pixels
-Classes: Digits from 0 to 9
+Name: MNIST Handwritten Digits<br>
+Size: 70,000 grayscale images (60,000 training + 10,000 testing)<br>
+Image Size: 28×28 pixels<br>
+Classes: Digits from 0 to 9<br>
 
 ## Tech Stack
 
-Language: Python
-Framework: PyTorch (Deep Learning), Flask (Web Backend)
-Frontend: HTML, CSS, JavaScript (Canvas API, Chart.js)
-Libraries:
-torch, torchvision – model training & inference
-PIL – image processing
-flask – serving predictions
-chart.js – probability visualization in browser
+Language: Python<br>
+Framework: PyTorch (Deep Learning), Flask (Web Backend)<br>
+Frontend: HTML, CSS, JavaScript (Canvas API, Chart.js)<br>
+Libraries:torch, torchvision – model training & inference<br>
+&nbsp;&nbsp;&nbsp;&nbsp;PIL – image processing
+&nbsp;&nbsp;&nbsp;&nbsp;flask – serving predictions
+&nbsp;&nbsp;&nbsp;&nbsp;chart.js – probability visualization in browser
 Environment: Runs locally in browser for digit drawing and prediction
 
 ## How to Run Locally
