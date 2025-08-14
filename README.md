@@ -1,6 +1,6 @@
 ## Overview
 
-Developed a Convolutional Neural Network (CNN) model trained on the MNIST dataset for handwritten digit recognition, achieving <strong>98.97%</strong> accuracy on test set classification accuracy. The model effectively extracts spatial features through convolution and pooling layers, demonstrating strong generalization on unseen test data.
+Developed a Convolutional Neural Network (CNN) model trained on the MNIST dataset for handwritten digit recognition, achieving <strong>98.97%</strong> classification accuracy. The model effectively extracts spatial features through convolution and pooling layers, demonstrating strong generalization on unseen test data.
 
 ## Dataset
 
@@ -25,7 +25,7 @@ Environment: Runs locally in browser for digit drawing and prediction
 <div align="center">
   <img src="images/cnn_architecture_diagram.png"
        alt="CNN Architecture Diagram (Conv → ReLU → MaxPool → Conv → ReLU → MaxPool → Flatten → FC → FC)"
-       width="720">
+       width="100" height="170">
   <p><em>CNN: 1×28×28 → Conv(32) → ReLU → MaxPool → Conv(64) → ReLU → MaxPool → Flatten(3136) → FC(128) → FC(10)</em></p>
 </div>
 
