@@ -1,4 +1,4 @@
-# Handwritten-Digit-Recognition using CNN (MNIST Dataset)
+<img width="237" height="1139" alt="cnn_architecture_diagram" src="https://github.com/user-attachments/assets/bb3fbbac-c86c-4090-b0fb-72abeb60fd2c" /># Handwritten-Digit-Recognition using CNN (MNIST Dataset)
 
 ## Overview
 
@@ -16,7 +16,7 @@ Developed a Convolutional Neural Network (CNN) model trained on the MNIST datase
 <b>Language:</b> Python<br>
 <b>Framework:</b> PyTorch (Deep Learning), Flask (Web Backend)<br>
 <b>Frontend:</b> HTML, CSS, JavaScript (Canvas API, Chart.js)<br>
-<b>Libraries:</b>torch, torchvision – model training & inference<br>
+<b>Libraries:</b> torch, torchvision – model training & inference<br>
 &nbsp;&nbsp;&nbsp;&nbsp;PIL – image processing<br>
 &nbsp;&nbsp;&nbsp;&nbsp;flask – serving predictions<br>
 &nbsp;&nbsp;&nbsp;&nbsp;chart.js – probability visualization in browser<br>
