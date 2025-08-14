@@ -27,8 +27,8 @@ Environment: Runs locally in browser for digit drawing and prediction
 <div align="center">
   <img src="images/cnn_architecture_diagram.png"
        alt="CNN Architecture Diagram (Conv → ReLU → MaxPool → Conv → ReLU → MaxPool → Flatten → FC → FC)"
-       width="700" height="600">
-  <p><em>CNN: 1×28×28 → Conv(32) → ReLU → MaxPool → Conv(64) → ReLU → MaxPool → Flatten(3136) → FC(128) → FC(10)</em></p>
+       width="500" height="800">
+  <p><em>CNN: 1×28×28 → Conv(32) → ReLU → MaxPool → Conv(64) → ReLU → MaxPool → Flatten(3136) → FC1(128) → ReLU → FC2(10)</em></p>
 </div>
 
 ## How to Run Locally
