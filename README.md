@@ -61,3 +61,5 @@ Draw a digit (0–9) on the black canvas.
 Click Predict to see the predicted digit and class probabilities as a bar chart.
 
 Click Clear to reset the canvas.
+
+<p align="center"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/></p>
